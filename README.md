@@ -1,2 +1,2 @@
 # HTML-Basic-Personal-Site
-My first website development using basic html and css
+My first website development using basic html
